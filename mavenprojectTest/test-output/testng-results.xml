@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-17T17:38:39 IST" name="Default suite" finished-at="2022-10-17T17:40:52 IST" duration-ms="133169">
+    <groups>
+    </groups>
+    <test started-at="2022-10-17T17:38:39 IST" name="Default test" finished-at="2022-10-17T17:40:52 IST" duration-ms="133169">
+      <class name="mavenproject.mavenprojectTest.drafAndDrop">
+        <test-method signature="dragDrop()[pri:0, instance:mavenproject.mavenprojectTest.drafAndDrop@1ba9117e]" started-at="2022-10-17T17:38:39 IST" name="dragDrop" finished-at="2022-10-17T17:40:52 IST" duration-ms="133147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDrop -->
+      </class> <!-- mavenproject.mavenprojectTest.drafAndDrop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
